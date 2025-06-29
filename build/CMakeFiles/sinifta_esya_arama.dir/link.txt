@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/sinifta_esya_arama.dir/libs/glad/src/glad.c.o CMakeFiles/sinifta_esya_arama.dir/src/main.cpp.o CMakeFiles/sinifta_esya_arama.dir/src/scene.cpp.o -o sinifta_esya_arama  -Wl,-rpath,/usr/local/lib /usr/local/lib/libglfw.3.4.dylib -framework OpenGL

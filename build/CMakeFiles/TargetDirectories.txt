@@ -1,0 +1,3 @@
+/Users/berkaygoksu/sinifta_esya_arama/build/CMakeFiles/sinifta_esya_arama.dir
+/Users/berkaygoksu/sinifta_esya_arama/build/CMakeFiles/edit_cache.dir
+/Users/berkaygoksu/sinifta_esya_arama/build/CMakeFiles/rebuild_cache.dir
