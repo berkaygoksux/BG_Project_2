@@ -1,5 +1,5 @@
 # Sınıfta Eşya Arama
-
+Video Link :  https://studio.youtube.com/video/fLO4724qLiA/edit
 **Açıklama:**  
 Bu proje, bir sınıfta kaybolan eşyaların bulunması için geliştirilmiş interaktif 3D bir uygulamadır. Kullanıcı, sınıftaki masa, çekmece ve kutu gibi nesneleri seçip işaretleyerek kaybolan eşyasını aramayı yönlendirebilir.  
 OpenGL, GLFW ve GLM kütüphaneleri kullanılarak geliştirilmiştir.
